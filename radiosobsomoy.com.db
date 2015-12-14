@@ -1,0 +1,40 @@
+
+
+
+
+
+NAME                                TTL-CLASS-TYPE                RECORD
+radiosobsomoy.com.                  14400 IN  A                   122.144.11.110
+localhost.radiosobsomoy.com.        14400 IN  A                   127.0.0.1
+
+
+
+mail                                14400 IN  A                   
+www                                 14400 IN  A                   
+ftp                                 14400 IN  A                   
+cpanel                              14400 IN  A                   
+whm                                 14400 IN  A                   
+webdisk                             14400 IN  A                   
+docs                                14400 IN  CNAME               ghs.google.com
+webmail                             14400 IN  CNAME               ghs.google.com
+gwww                                14400 IN  CNAME               ghs.googlehosted.com
+
+
+
+
+
+
+
+
+
+rjuice.com.                          14400 IN  TXT                "v=spf1 +a +mx +ip4:122.144.11.110 include:aspmx.googlemail.com ~all"
+rjuice.com.                          14400 IN  TXT                "google-site-verification=lsdfjlsd-flkdjfkjsd-flsflja"
+
+
+
+
+
+
+
+
+
